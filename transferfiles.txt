@@ -1,0 +1,12 @@
+shape	height	x0	y0	xa	yb	orient
+rect	3	0	20	40	6	0  
+rect	1	55	10	40	10	0
+rect	1	0	45	20	10	0
+rect	2	35	40	40	10	0
+rect	1	70	50	30	5	0
+rect	1	10	55	10	25	0
+rect	3	20	75	30	5	0
+rect	2	50	60	10	20	30
+rect	3	25	80	6	12	0
+circ	1	70	80	10	0	0
+rect	2	90	90	10	10	0
